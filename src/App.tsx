@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+function App() : React.ReactNode {
   return (
     <div className="App">
       Chess
